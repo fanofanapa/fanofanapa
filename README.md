@@ -1,7 +1,7 @@
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '14px', 'fontFamily': 'Inter, system-ui, -apple-system, sans-serif' }}}%%
 flowchart BT
-    c_lang["<div style='text-align: left; padding: 4px;'><b>C Language</b><br/>• <a href='https://github.com/'>Project 1 (Заглушка)</a><br/>• <a href='https://github.com/'>Project 2 (Заглушка)</a><br/>• <a href='https://github.com/'>Project 3 (Заглушка)</a><br/>• <a href='https://github.com/'>Project 4 (Заглушка)</a></div>"]
+    c_lang["<div style='text-align: left; padding: 4px;'><b>C Language</b><br/>• <a href='https://github.com/'>Project 1 (Заглушка)</a><br/>• <a href='https://github.com/'>Project 2 (Заглушка)</a><br/>• <a href='https://github.com/'>Project 3 (Заглушка)</a><br/>• <a href='[https://github.com/](https://github.com/fanofanapa/cat_grep_educational/tree/main)'>Системные утилиты cat grep</a></div>"]
     
     sql["<div style='text-align: left; padding: 4px;'><b>PostgreSQL & SQL</b><br/>• Проектирование и управление БД<br/>• Продвинутые запросы в PL/pgSQL</div>"]
 
